@@ -1,0 +1,41 @@
+Do my Leader powers stack?
+Yes, and the Leader powers are active in every Age (except single-use powers).
+
+Does stage 1 of the Olympia Wonder (Night side) let me recruit a Leader for free?
+No, this power only applies to Age card Buildings.
+
+When I construct stages 2 and 3 of the Rome Wonder (Night side), can I recruit a Leader with Coins I gained at the start of the turn?
+Yes. During recruitment, all of your Coins can be spent to pay the recruitment cost.
+
+Does Hatshepsut give you 1 Coin when you buy a resource for 0 Coins (for example, using the East Trading Post and the East Clandestine Wharf)?
+Yes. Even though the transaction was free, it is still considered to be a purchase, therefore Hatshepsut gives you 1 Coin.
+
+Does stage 2 of the Olympia Wonder (Day side) let you construct a Leader card for free?
+No. The “first Age card” means that Leaders are not included, only Age cards (Buildings).
+
+Can I use Coins I gained during my turn to construct on the same turn?
+No. All Coins gained on your turn can only be used starting on your next turn.
+
+Can I combine the effects of Hatshepsut and Berenice?
+Yes, the effects of these two Leaders can be combined, but only for one of your neighbors.
+
+Is it possible to choose a Leader card in the discard with the effect of Halicarnassus, Solomon, etc.?
+No, this effect only lets you choose Age cards from the discard.
+
+Can I resolve two Military Conflicts against a single player in an Age?
+No. There can only be a single Military Conflict between the same two players each Age.
+
+If the Leaders Telesilla and Nitocris are recruited on the same turn, can the Military Victory token gained by Nitocris this turn be destroyed by Telesilla?
+Yes, since you always gain before losing.
+
+Does the effect of the Leader Berenice apply to Edifice Rewards?
+Yes.
+
+What is the order of resolution between the Leader Solomon, Halicarnassus, Carthage, The Great Wall, and Manneken Pis, and the Forging Agency that let you construct a card from the discard for free, if they are played on the same turn?
+If multiple players must activate this effect on the same turn, follow the resolution order below:
+1. The Leader Solomon
+2. The Wonder Halicarnassus
+3. The Wonder Carthage
+4. The Wonder The Great Wall
+5. The Wonder Manneken Pis
+6. The Forging Agency

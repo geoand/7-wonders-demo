@@ -1,0 +1,32 @@
+Does stage 2 of the Olympia Wonder (Day side) let me also construct the first Black card in my City for free?
+Yes. Cities cards are Black Age cards, therefore they are a new color that you can construct in your City.
+
+Can I voluntarily take a Debt?
+No. Only cards that make you lose Coins can cause you to take a Debt.
+
+On the same turn, can I use Coins that another player paid me to cover an effect that would make me lose Coins?
+Yes. Losing Coins always happens after gaining Coins.
+
+In a 3-player game, two players have a Diplomacy token. What happens during the Resolution of Conflicts?
+The third player doesn’t gain any Military Victory or Defeat tokens since there was no opponent for the Conflict.
+
+During a team game, two players who have to face each other both have a Diplomacy token. What happens during the Resolution of Conflicts?
+Neither player takes any token for this Conflict.
+
+Does Hatshepsut give you 1 Coin when you buy a resource for 0 Coins (for example, using the East Trading Post and the East Clandestine Wharf)?
+Yes. Even though the transaction was free, it is still considered to be a purchase, therefore Hatshepsut gives you 1 Coin.
+
+Does the Mask science symbol in the Cities expansion let you copy the Majority science symbol in the Armada expansion?
+The Mask and Majority science symbols are not considered to be full science symbols, so a Mask cannot copy a Majority science symbol.
+
+Can I resolve two Military Conflicts against a single player in an Age?
+No. There can only be a single Military Conflict between the same two players each Age.
+
+What is the order of resolution between the Leader Solomon, Halicarnassus, Carthage, The Great Wall, and Manneken Pis, and the Forging Agency that let you construct a card from the discard for free, if they are played on the same turn?
+If multiple players must activate this effect on the same turn, follow the resolution order below:
+1. The Leader Solomon
+2. The Wonder Halicarnassus
+3. The Wonder Carthage
+4. The Wonder The Great Wall
+5. The Wonder Manneken Pis
+6. The Forging Agency

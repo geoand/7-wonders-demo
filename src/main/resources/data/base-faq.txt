@@ -1,0 +1,39 @@
+After constructing stage 2 of the Olympia Wonder (Day side), can I construct the first card in each color for free in each Age?
+No. Only the first Age card in each color that you don’t already have in your City is constructed for free, regardless of the current Age. If you have already constructed a Blue card in your City, you cannot use this effect to construct a Blue card.
+
+With the stages of Halicarnassus, can I construct a Wonder stage for free with a card taken from the discard?
+No.
+
+Which card can I construct with stage 1 of the Babylon Wonder (Night side)?
+The card that is normally discarded at the end of the Age. You can therefore construct the 7th card when playing with the base game rules, the 8th card when playing with the Cities or Armada expansion, and the 9th card when playing with both the Cities and Armada expansions.
+This effect activates at the end of each Age starting the Age this stage is constructed. So if you manage to construct it during Age I, you can activate it 3 times during the game.
+
+For stage 2 of the Olympia Wonder (Day side), what does “in each color” mean?
+This means that your first Brown, Grey, Yellow, Red, Green, Blue, and Purple card (and Black, if you’re playing with the Cities expansion) can be constructed in your City for free. In other words, if the color of the card you’re constructed isn’t yet present in your City, this card is free: you do not need to own or buy any resources to construct this card.
+
+Can I construct a stage of my Wonder for free using the effects of stages 1 and 2 of the Olympia Wonder (Night side)?
+No, the free construction effect is only applied to Age cards (Buildings), and not to Wonder stages (or Leader cards).
+
+Which “first” card can I construct for free using stage 1 of the Olympia Wonder (Night side)?
+This is referring to the very first card you choose at the start of an Age (from your initial hand of cards). During each Age, you do not need to own or buy any resources to construct this card.
+If you manage to construct this Wonder stage during Age I, you can therefore construct 2 cards for free: the 1st card in Age II, and the 1st card in Age III.
+If you choose to construct a Wonder stage or to sell the card instead of constructing it, you lose the effect for the current Age.
+
+Which “last” card can I construct for free using stage 2 of the Olympia Wonder (Night side)?
+This is referring to the sixth card in the Age (in the base game) and not the card you discard. During each Age, you do not need to own or buy any resources to construct this card.
+If you manage to construct this Wonder stage in Age I, you can therefore construct 3 cards for free: the last card in Age I, the last card in Age II, and the last card in Age III.
+
+Can I use the effect of stage 1 of the Olympia Wonder (Night side) during Age I?
+You can never use this effect during Age I, except in an extremely rare scenario. If you are playing with the Leaders expansion, and each of your neighbors have an Ore for their starting resource, you can build stage 1 of your Wonder with your first Leader. Then you can use the effect of this Wonder stage starting in Age I.
+
+Can I use Coins I gained during my turn to construct on the same turn?
+No. All Coins gained on your turn can only be used starting on your next turn.
+
+What is the order of resolution between the Leader Solomon, Halicarnassus, Carthage, The Great Wall, and Manneken Pis, and the Forging Agency that let you construct a card from the discard for free, if they are played on the same turn?
+If multiple players must activate this effect on the same turn, follow the resolution order below:
+1. The Leader Solomon
+2. The Wonder Halicarnassus
+3. The Wonder Carthage
+4. The Wonder The Great Wall
+5. The Wonder Manneken Pis
+6. The Forging Agency
