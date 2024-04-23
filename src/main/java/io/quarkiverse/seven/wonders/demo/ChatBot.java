@@ -1,13 +1,12 @@
 package io.quarkiverse.seven.wonders.demo;
 
-import dev.langchain4j.service.MemoryId;
 import dev.langchain4j.service.SystemMessage;
 import dev.langchain4j.service.UserMessage;
 import io.quarkiverse.langchain4j.RegisterAiService;
-import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.context.SessionScoped;
 
 @RegisterAiService
-@ApplicationScoped
+@SessionScoped
 public interface ChatBot {
 
     @SystemMessage("""
@@ -18,6 +17,6 @@ public interface ChatBot {
 
             Introduce yourself with: "Hello, I'm Voithos, how can I help you?"
             """)
-    String chat(@MemoryId Object session, @UserMessage String question);
+    String chat(@UserMessage String question);
     
 }
