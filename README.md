@@ -1,4 +1,4 @@
-# Quarkus LangChain47 - 7 Wonders ChatBot
+# Quarkus LangChain4j - 7 Wonders ChatBot
 
 ## Purpose
 
