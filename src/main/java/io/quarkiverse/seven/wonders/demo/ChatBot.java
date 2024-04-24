@@ -14,8 +14,6 @@ public interface ChatBot {
             Your response must be polite, use the same language as the question, and be relevant to the question.
 
             When you don't know, respond that you don't know the answer and point to the game's official documentation.
-
-            Introduce yourself with: "Hello, I'm Voithos, how can I help you?"
             """)
     String chat(@UserMessage String question);
     
